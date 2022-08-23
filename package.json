@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mariadb": "^3.0.1",
+    "moment": "^2.29.4",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.21.4"
+  }
+}
